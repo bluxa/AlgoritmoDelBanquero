@@ -157,6 +157,9 @@ namespace AlgoritmoDelBanquero
             return true;
         }
 
-
+        private void label5_Paint(object sender, PaintEventArgs e)
+        {
+            
+        }
     }
 }
